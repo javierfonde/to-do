@@ -1,0 +1,9 @@
+.titulo{
+
+    @media (max-width: 768px) {
+        font-size: 4rem; // 1rem = 16px
+    }
+    @media (max-width: 480px) {
+        font-size: 3rem; // 1rem = 16px
+    }
+}
